@@ -53,9 +53,9 @@ ScrollReveal().reveal('.home-content p, .about-content', { origin: 'right' });
 
 /*================typed js===========================*/
 const typed = new Typed('.multiple-text',{
-    strings:[ 'Full Stack Developer', 'Back End Developer', 'YouTuber'],
-    typeSpeed:200,
-    backSpeed:200,
-    backDelay:1000,
+    strings:[ 'Full Stack Developer', 'Back End Developer', 'Froent End Developer','Software Engineer'],
+    typeSpeed:100,
+    backSpeed:100,
+    backDelay:500,
     loop:true
 });
