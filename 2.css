@@ -181,7 +181,7 @@ span{
     gap: 2rem;
 }
 .services-container .services-box{
-    width: 350px;
+    width: 400px;
     margin: 25px;
     background: var(--second-bg-color);
     padding: 3rem 2rem 2rem 2rem;
@@ -207,6 +207,8 @@ span{
 .services-box p{
     font-size: 1.8rem;
     margin:1rem 0 3rem 2rem;
+    text-align: justify;
+    word-spacing: normal;
 }
 
 .portfolio{
